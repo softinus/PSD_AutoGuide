@@ -1,0 +1,240 @@
+Background
+X : 0
+Y : 0
+W : 375
+H : 441
+
+</Layer group>
+X : 0
+Y : 0
+W : 0
+H : 0
+
+Pill Backdrop
+X : 212
+Y : 327
+W : 112
+H : 32
+
+Divider
+X : 267
+Y : 328
+W : 3
+H : 30
+
+Pill Buttons
+X : 0
+Y : 0
+W : 0
+H : 0
+
+</Layer group> copy
+X : 0
+Y : 0
+W : 0
+H : 0
+
+Checkbox
+X : 131
+Y : 328
+W : 34
+H : 33
+
+Check
+X : 137
+Y : 333
+W : 24
+H : 22
+
+Unchecked
+X : 0
+Y : 0
+W : 0
+H : 0
+
+</Layer group>
+X : 0
+Y : 0
+W : 0
+H : 0
+
+Checkbox
+X : 51
+Y : 326
+W : 33
+H : 33
+
+Check
+X : 56
+Y : 332
+W : 24
+H : 22
+
+Checked
+X : 0
+Y : 0
+W : 0
+H : 0
+
+ copy
+X : 0
+Y : 0
+W : 0
+H : 0
+
+Backdrop
+X : 252
+Y : 275
+W : 32
+H : 32
+
+Inner Circle
+X : 256
+Y : 279
+W : 23
+H : 24
+
+Arrow
+X : 259
+Y : 286
+W : 17
+H : 12
+
+DropButton
+X : 0
+Y : 0
+W : 0
+H : 0
+
+ copy
+X : 0
+Y : 0
+W : 0
+H : 0
+
+Radiobutton Backdrop
+X : 132
+Y : 275
+W : 32
+H : 32
+
+Indicator
+X : 139
+Y : 283
+W : 17
+H : 16
+
+Radio Button Off
+X : 0
+Y : 0
+W : 0
+H : 0
+
+ copy
+X : 0
+Y : 0
+W : 0
+H : 0
+
+Radiobutton Backdrop
+X : 51
+Y : 275
+W : 32
+H : 32
+
+Indicator
+X : 58
+Y : 283
+W : 17
+H : 16
+
+Radio Button On
+X : 0
+Y : 0
+W : 0
+H : 0
+
+</Layer group> copy
+X : 0
+Y : 0
+W : 0
+H : 0
+
+Dropdown Backdrop
+X : 51
+Y : 211
+W : 273
+H : 45
+
+Divider
+X : 280
+Y : 213
+W : 2
+H : 40
+
+Dropdown Menu
+X : 60
+Y : 226
+W : 113
+H : 16
+
+Tab Arrow
+X : 289
+Y : 228
+W : 24
+H : 14
+
+Dropdown
+X : 0
+Y : 0
+W : 0
+H : 0
+
+</Layer group>
+X : 0
+Y : 0
+W : 0
+H : 0
+
+Textbox Backdrop
+X : 48
+Y : 161
+W : 277
+H : 32
+
+Placeholder Text
+X : 59
+Y : 171
+W : 105
+H : 12
+
+Input Textbox
+X : 0
+Y : 0
+W : 0
+H : 0
+
+</Layer group> copy
+X : 0
+Y : 0
+W : 0
+H : 0
+
+Button Backdrop
+X : 51
+Y : 98
+W : 273
+H : 45
+
+Button
+X : 155
+Y : 113
+W : 65
+H : 16
+
+Button
+X : 0
+Y : 0
+W : 0
+H : 0
+

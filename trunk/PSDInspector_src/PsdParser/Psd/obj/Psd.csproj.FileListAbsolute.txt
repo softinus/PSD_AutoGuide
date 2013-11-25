@@ -1,0 +1,13 @@
+H:\1.개인프로젝트\PSDInspector_src\PsdParser\Psd\obj\Debug\ResolveAssemblyReference.cache
+H:\1.개인프로젝트\PSDInspector_src\PsdParser\Psd\obj\Debug\Psd.Form1.resources
+H:\1.개인프로젝트\PSDInspector_src\PsdParser\Psd\obj\Debug\Psd.Properties.Resources.resources
+H:\1.개인프로젝트\PSDInspector_src\PsdParser\Psd\obj\Debug\Psd.csproj.GenerateResource.Cache
+H:\1.개인프로젝트\PSDInspector_src\PsdParser\Psd\bin\Debug\FourCC.txt
+H:\1.개인프로젝트\PSDInspector_src\PsdParser\Psd\bin\Debug\Psd.exe
+H:\1.개인프로젝트\PSDInspector_src\PsdParser\Psd\bin\Debug\Psd.pdb
+H:\1.개인프로젝트\PSDInspector_src\PsdParser\Psd\bin\Debug\Endogine.Codecs.Photoshop.dll
+H:\1.개인프로젝트\PSDInspector_src\PsdParser\Psd\bin\Debug\Endogine.dll
+H:\1.개인프로젝트\PSDInspector_src\PsdParser\Psd\bin\Debug\Endogine.Editors.dll
+H:\1.개인프로젝트\PSDInspector_src\PsdParser\Psd\bin\Debug\Endogine.Codecs.Photoshop.pdb
+H:\1.개인프로젝트\PSDInspector_src\PsdParser\Psd\obj\Debug\Psd.exe
+H:\1.개인프로젝트\PSDInspector_src\PsdParser\Psd\obj\Debug\Psd.pdb

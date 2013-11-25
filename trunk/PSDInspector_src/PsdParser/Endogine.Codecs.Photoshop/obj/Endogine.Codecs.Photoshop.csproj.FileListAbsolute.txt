@@ -1,0 +1,7 @@
+H:\1.개인프로젝트\PSDInspector_src\PsdParser\Endogine.Codecs.Photoshop\obj\Debug\ResolveAssemblyReference.cache
+H:\1.개인프로젝트\PSDInspector_src\PsdParser\Endogine.Codecs.Photoshop\bin\Debug\FourCC.txt
+H:\1.개인프로젝트\PSDInspector_src\PsdParser\Endogine.Codecs.Photoshop\bin\Debug\Endogine.Codecs.Photoshop.dll
+H:\1.개인프로젝트\PSDInspector_src\PsdParser\Endogine.Codecs.Photoshop\bin\Debug\Endogine.Codecs.Photoshop.pdb
+H:\1.개인프로젝트\PSDInspector_src\PsdParser\Endogine.Codecs.Photoshop\bin\Debug\Endogine.dll
+H:\1.개인프로젝트\PSDInspector_src\PsdParser\Endogine.Codecs.Photoshop\obj\Debug\Endogine.Codecs.Photoshop.dll
+H:\1.개인프로젝트\PSDInspector_src\PsdParser\Endogine.Codecs.Photoshop\obj\Debug\Endogine.Codecs.Photoshop.pdb
